@@ -40,5 +40,5 @@ End-to-End Data Analytics project analyzing retail transactions to uncover insig
 ## 👨‍💻 Author
 **Rohit Chouhan**  
 📧 [rc298652@gmail.com]  
-🔗 [LinkedIn or GitHub Profile]
+🔗 [www.linkedin.com/in/rohit-chouhan-1ab2a22a3]
 
