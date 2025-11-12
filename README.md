@@ -8,7 +8,7 @@ End-to-End Data Analytics project analyzing retail transactions to uncover insig
 ### 🖼️ PowerPoint Presentation Cover
 A glimpse of the presentation design and executive summary layout:
 
-![PowerPoint Cover](<img width="1228" height="693" alt="image" src="https://github.com/user-attachments/assets/e6dc0b90-8740-4efc-a8fb-ae7d9a60a479" />
+![PowerPoint Cover](<img width="1228" height="693" alt="ppt_cover" src="https://github.com/user-attachments/assets/9d2326b4-c526-4fef-8d80-13601c90de75" />
 )
 
 ### 📊 Power BI Dashboard Preview
